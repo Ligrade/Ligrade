@@ -34,5 +34,7 @@ A macOS menu bar application that translates into French the lyrics of the song 
 
 - GitHub: [@Ligrade](https://github.com/Ligrade)
 - Project: [MusicTrad](https://github.com/Ligrade/MusicTrad)
+- Discord: `ligrade`
+- X: [@EdarrrBourse](https://x.com/EdarrrBourse)
 
 > Building elegant, useful macOS apps that stay out of the way.
