@@ -2,7 +2,13 @@
 
 I'm **Ligrade**, a meticulous **vibe coder** passionate about macOS applications, SwiftUI and tools that simplify everyday life.
 
-### 🎵 Featured project
+### 🎮 Featured projects
+
+#### [SA-Controller](https://github.com/Ligrade/SA-Controller)
+
+An Android controller project for playing **GTA: San Andreas** on **Android TV**, with support for physical Bluetooth/USB controllers and a customizable tactile overlay.
+
+**Technologies:** Java · Android · Android TV
 
 #### [MusicTrad](https://github.com/Ligrade/MusicTrad)
 
@@ -12,6 +18,8 @@ A macOS menu bar application that translates into French the lyrics of the song 
 
 ### 🛠️ Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -31,8 +39,8 @@ A macOS menu bar application that translates into French the lyrics of the song 
 ## 🔗 Links
 
 - GitHub: [@Ligrade](https://github.com/Ligrade)
-- Project: [MusicTrad](https://github.com/Ligrade/MusicTrad)
+- Projects: [SA-Controller](https://github.com/Ligrade/SA-Controller) · [MusicTrad](https://github.com/Ligrade/MusicTrad)
 - Discord: `ligrade`
 - X: [@EdarrrBourse](https://x.com/EdarrrBourse)
 
-> Building elegant, useful macOS apps that stay out of the way.
+> Building elegant, useful apps that stay out of the way.
