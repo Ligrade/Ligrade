@@ -1,7 +1,5 @@
 # Hi 👋
 
-## 🇬🇧 English
-
 I'm **Ligrade**, a meticulous **vibe coder** passionate about macOS applications, SwiftUI and tools that simplify everyday life.
 
 ### 🎵 Featured project
